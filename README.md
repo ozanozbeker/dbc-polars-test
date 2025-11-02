@@ -1,2 +1,3 @@
 # dbc-polars-test
-Testing `odc` integration with `polars`
+
+Testing `dbc` integration with `polars`.
